@@ -38,7 +38,7 @@ This voice agent allows users to have natural conversations through speech. User
 - LangChain (LLM integration)
 - python-dotenv (environment management)
 - Flask-CORS (cross-origin support)
-
+- Murf Falcon TTS API Integration 
 ## Setup Instructions
 
 ### Prerequisites
