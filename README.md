@@ -178,10 +178,13 @@ voice_agent/
 - CORS configured for local development only
 - No sensitive data exposed to frontend
 
+##Youtube Link
+
+https://youtu.be/UeBasaGSy3Q?si=taVzxLlGZMJl5f6A
 
 ## LinkedIn Post
 
-[Link to LinkedIn post will be added here]
+[[Link to LinkedIn post will be added here]](https://www.linkedin.com/posts/mohit-inamdar-5182b0247_murf-ai-voiceassistant-activity-7402413699635843073-hoek?utm_source=share&utm_medium=member_android&rcm=ACoAAD0XBeQBtz7yxkeD9YkDJrVyIE-5drAHbuk)
 
 ## Built With Murf Falcon
 
