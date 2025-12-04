@@ -1,0 +1,4 @@
+✅ FIXED: Voice synthesis error handling improved in backend/tts.py
+- Added proper handling for non-200 HTTP status codes
+- Implemented retry logic for transient errors (429, 500, 502, 503, 504)
+- All voices should now work correctly
